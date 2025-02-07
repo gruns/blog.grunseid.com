@@ -1,0 +1,1 @@
+the [blog.grunseid.com](https://blog.grunseid.com/) website
